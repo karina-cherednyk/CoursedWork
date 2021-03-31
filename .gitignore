@@ -1,0 +1,11 @@
+.idea/.gitignore
+.idea/MachineTranslation.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+__pycache__/
+.idea/vcs.xml
+.logs/
+.datasets/
+.main/history/
+.main/weights
